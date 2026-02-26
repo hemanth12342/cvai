@@ -1,3 +1,5 @@
 streamlit
 groq
 scikit-learn
+python-dotenv
+fpdf
